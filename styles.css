@@ -539,6 +539,7 @@ header {
   text-decoration: none;
   background-color: #3d02b1;
   transition: all 300ms ease;
+  cursor: pointer;
 }
 
 /* Steps  */
@@ -697,6 +698,12 @@ header {
   color: white;
   font-weight: bold;
   margin-top: 40px;
+  transition: all 300ms ease;
+}
+
+.values__button:hover{
+  cursor: pointer;
+  background-color: #3d02b1;
 }
 
 .values__img--wrapper {
