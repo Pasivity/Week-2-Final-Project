@@ -872,6 +872,7 @@ header {
 .plan__button--green:hover {
   transform: translate(1px, 1px);
   box-shadow: 4px 6px 8px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
 }
 
 .plan__header--blue {
@@ -976,6 +977,7 @@ header {
 .plan__button--white:hover {
   transform: translate(1px, 1px);
   box-shadow: 4px 6px 8px rgba(0, 0, 0, 0.15);
+  cursor: pointer;
 }
 
 .plan__top--red {
